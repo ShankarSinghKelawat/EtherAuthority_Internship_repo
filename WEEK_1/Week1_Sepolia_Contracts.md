@@ -12,8 +12,8 @@
 
 ## 3. SimpleStorage.sol
 - Network: Sepolia Testnet
-- Contract Address: 
-- Description: Store and update integer value
+- Contract Address: 0x5e80Cd4dB994284EcAB51FC30E7A3EE2511f8cc4
+- Description: Store and retrieve integer value
 
 ## 4. Ownable.sol
 - Network: Sepolia Testnet
