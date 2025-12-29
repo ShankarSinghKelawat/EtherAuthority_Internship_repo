@@ -17,8 +17,8 @@
 
 ## 4. Ownable.sol
 - Network: Sepolia Testnet
-- Contract Address: 
-- Description: Ownership-based access control
+- Contract Address: 0xB2c73E1D676de57e67A4654b6881aC00482C8798
+- Description: Ownership-based function access control
 
 ## 5. EtherTransfer.sol
 - Network: Sepolia Testnet
