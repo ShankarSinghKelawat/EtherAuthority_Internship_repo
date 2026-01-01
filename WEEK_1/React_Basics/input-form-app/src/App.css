@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.inputs{
+  background-color: aliceblue;
+  color: black;
+  padding: 10px;
+  width: 60%;
+  font-size: 15px;
+}
+ 
+.form_card{
+  background-color: rgb(166, 104, 225);
+  width: 400px;
+  border-radius: 25px;
+  border: 5px solid hsl(0, 0%, 80%);
+  padding: 20px;
+  text-align: left;
+}
+
+
+
+#head{
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.labels{
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
