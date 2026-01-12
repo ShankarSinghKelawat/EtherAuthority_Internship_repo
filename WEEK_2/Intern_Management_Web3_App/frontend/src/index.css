@@ -1,0 +1,249 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  background-color: #242424;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.home{
+  text-align: center;
+}
+
+.loginWallet{
+  align-items: center;
+  text-align: center;
+  margin-left: 700px;
+  background-color: #646cff;
+  padding: 20px;
+  border-radius: 20px;
+  color: gold;
+  width: 500px;
+}
+
+.loginBtn{
+  color: #f4f4f4;
+  background-color: #323131;
+  border: 2px solid rgb(220, 220, 220);
+  cursor: pointer;
+  transition: border-color 0.25s;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.loginBtn{
+  color: #f4f4f4;
+  background-color: #323131;
+  border: 2px solid rgb(220, 220, 220);
+  cursor: pointer;
+  transition: border-color 0.25s;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.registerBtn{
+  color: #f4f4f4;
+  background-color: #323131;
+  border: 2px solid rgb(220, 220, 220);
+  cursor: pointer;
+  transition: border-color 0.25s;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
+  border-radius: 8px;
+  margin-right: 25px;
+}
+
+.loginBtn:hover{
+  color: gold;
+  border: 2px solid rgb(220, 220, 220);
+}
+
+.registerBtn:hover{
+  color: rgb(0, 92, 196);
+  border: 2px solid rgb(220, 220, 220);
+}
+
+
+.inputs{
+  background-color: aliceblue;
+  color: black;
+  padding: 10px;
+  width: 60%;
+  font-size: 15px;
+}
+ 
+.form_card{
+  background-color: rgb(166, 104, 225);
+  width: 400px;
+  border-radius: 25px;
+  border: 5px solid hsl(0, 0%, 80%);
+  padding: 20px;
+  text-align: left;
+}
+
+#head{
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.labels{
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+.submitBtn{
+  color: #f4f4f4;
+  background-color: #323131;
+  border: 2px solid rgb(220, 220, 220);
+  cursor: pointer;
+  transition: border-color 0.25s;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
+  border-radius: 8px;
+}
+
+.submitBtn:hover{
+  color: rgb(0, 149, 255);
+  border: 2px solid rgb(220, 220, 220);
+  text-align: center;
+}
+
+.intern-card {
+  width: 500px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #57cae1;
+  box-shadow: 0 4px 10px rgba(192, 192, 192, 0.541);
+  border: 3px solid transparent;
+  margin-bottom: 15px;
+}
+
+.intern-card p {
+  margin: 8px 0;
+  font-size: 1.4em;
+}
+
+.deleteBtn{
+  background-color: rgb(70, 70, 70);
+  font-size: 1.2em;
+  margin-top: 5px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border: none;
+  padding: 5px 5px;
+}
+
+.deleteBtn:hover{
+  background-color: rgb(234, 86, 45);
+  cursor: pointer;
+}
+
+.editBtn{
+  background-color: rgb(70, 70, 70);
+  font-size: 1.2em;
+  margin-top: 5px;
+  border-radius: 5px;
+  margin-right: 15px;
+  border: none;
+  padding: 5px 5px;
+}
+
+.editBtn:hover{
+  background-color: rgb(27, 64, 231);
+  cursor: pointer;
+}
+
+.intern_dashboard{
+  margin: 0;
+}
+
+.task_card{
+  width: 350px;
+  height: 345px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #2ee649;
+  box-shadow: 0 4px 10px rgba(192, 192, 192, 0.541);
+  border: 3px solid transparent
+}
+
+.addtaskBtn{
+  margin-left: 15px;
+  font-size: 1.2em;
+  padding: 2px 3px;
+}
+
+input{
+  font-size: 1.1em;
+}
+
+select{
+  font-size: 1em;
+}
+
+.addtaskBtn{
+  background-color: rgb(70, 70, 70);
+  font-size: 1.2em;
+  margin-top: 5px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border: none;
+  padding: 5px 5px;
+}
+
+strong{
+  font-size: 1.2em;
+}
+
+.addtaskBtn:hover{
+  background-color: rgb(190, 234, 60);
+  cursor: pointer;
+}
+
+.dashboard-layout {
+  display: flex;
+  gap: 300px;
+}
+
+.dashboard-left {
+  width: 350px;     
+}
+
+.dashboard-right {
+  flex: 1;          
+  min-width: 400px;
+}
+
+.register{
+  margin-left: 700px;
+}
+
+.mint-section{
+  background-color: #646cff;
+  border-radius: 15px;
+  width: 500px;
+  padding: 5px 5px;
+  text-align: center;
+  align-items: center;
+}
+
+
+
+

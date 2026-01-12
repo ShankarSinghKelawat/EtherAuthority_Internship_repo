@@ -1,0 +1,11 @@
+{
+  "name": "Intern Completion NFT",
+  "description": "Awarded for completing internship",
+  "image": "ipfs://bafkreidta4tfkwcrd2qiblordgvx5bvz7b5kvngo333w34vbgkimuwwyze",
+  "attributes": [
+    {
+      "trait_type": "Program",
+      "value": "Web3 Internship"
+    }
+  ]
+}
