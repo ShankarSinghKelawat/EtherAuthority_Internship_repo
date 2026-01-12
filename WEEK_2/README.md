@@ -161,9 +161,3 @@ A full-stack Web3 application demonstrating:
 - Sensitive files such as `.env` are excluded using `.gitignore`
 - This repository is strictly for **learning and evaluation purposes**
 
----
-
-## Author
-**Name:** Shiva  
-**Week:** 2  
-**Focus Area:** Web3 & Full Stack Development
