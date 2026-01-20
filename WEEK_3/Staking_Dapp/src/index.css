@@ -1,0 +1,71 @@
+body{
+  background-color: rgb(48, 48, 48);
+}
+
+.button {
+  margin-left: 15px;
+  margin-bottom: 10px;
+  width: 160px !important;
+  height: 40px;
+  color: aliceblue;
+  font-size: 1.2em;
+  background-color: rgba(56, 56, 56, 0.856);
+  margin-top: 0px;
+  border-radius: 10px;
+  border: 2px rgb(255, 255, 255) solid;
+}
+  
+.button:hover {
+  border: 2px rgb(47, 207, 225) solid;
+  color: rgb(47, 207, 225);
+}
+
+.accDetails{
+  font-size: 1.4em;
+}
+
+.netDetails{
+  font-size: 1.4em;
+}
+
+.stakeAmount{
+  font-size: 1.4em;
+}
+
+.rewardRate{
+  font-size: 1.4em;
+}
+
+.earnedReward{
+  font-size: 1.4em;
+}
+
+.labels{
+  font-size: 1.4em;
+}
+
+input{
+  font-size: 1.4em;
+  border-radius: 10px;
+}
+
+.header{
+  margin-left: 680px;
+  font-size: 5em;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(71, 212, 228);
+  
+}
+
+.walletCard{
+  align-items: center;
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(74, 74, 74);
+  border: 3px solid rgb(47, 207, 225);
+  width: 700px;
+  margin-left: 550px;
+  padding: 5px 10px;
+  border-radius: 15px;
+}
